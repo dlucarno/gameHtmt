@@ -1,0 +1,1 @@
+console.log("Cc, c'est moi le main.js");
