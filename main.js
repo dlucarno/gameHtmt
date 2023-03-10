@@ -1,4 +1,4 @@
-let canvas = document.getElementById("canvas");
+let canvas = document.getElementById("start");
 let ctx = canvas.getContext("2d");
 let interval;
 

@@ -73,4 +73,5 @@ function update(dt) {
 function draw(pCtx) {
     img.draw(pCtx);
     img2.draw(pCtx);
+    
 }
